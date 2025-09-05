@@ -25,11 +25,29 @@
   pageRef = "Resume"
   weight = 3
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Sound Design"
+  parent = "Projects"
+  pageRef = "Sound Design"
+  weight = 20
+
+  [[main]]
+  name = "Game Design"
+  parent = "Projects"
+  pageRef = "Game Design"
+  weight = 20
+
+  [[main]]
+  name = "3D Animation"
+  parent = "Projects"
+  pageRef = "3D Animation"
+  weight = 20
+
+  [[main]]
+  name = "Game Studies"
+  parent = "Projects"
+  pageRef = "Game Studies"
+  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"

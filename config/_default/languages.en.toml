@@ -20,7 +20,7 @@ title = "Sébastien Villers"
    image = "img/DSCF6771.JPG"
    imageQuality = 96
    headline = "Sound Designer / Game Designer / 3D Animator"
-   bio = "A little bit about you"
+   bio = "Game Designer / Sound Designer / 3D Animator"
 
    links = [
      { email = "mailto:sebastienvillers@gmail.com" },

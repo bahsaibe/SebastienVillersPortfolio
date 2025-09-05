@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sébastien Villers"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/blowfish_logo_transparent.png"
+  # secondaryLogo = "img/secondary-logo.png"
+   description = "My portfolio"
+   copyright = "&copy; 2025 Sébastien Villers. All Rights Reserved"
+
+ [params.author]
+  name = "Sébastien Villers"
+   email = "sebastienvillerspro@gmail.com"
+   image = "img/DSCF6771.JPG"
+   imageQuality = 96
+   headline = "Sound Designer / Game Designer / 3D Animator"
+   bio = "A little bit about you"
+
+   links = [
+     { email = "mailto:sebastienvillers@gmail.com" },
+
+     { itch-io = "https://toncopainsaibe.itch.io/" },
+
+     { linkedin = "https://www.linkedin.com/in/s%C3%A9bastien-villers-474426251/" },
+   ]

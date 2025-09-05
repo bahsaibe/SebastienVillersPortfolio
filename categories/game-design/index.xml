@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Design on Sébastien Villers</title>
+    <link>http://localhost:1313/categories/game-design/</link>
+    <description>Recent content in Game Design on Sébastien Villers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sebastienvillerspro@gmail.com (Sébastien Villers)</managingEditor>
+    <webMaster>sebastienvillerspro@gmail.com (Sébastien Villers)</webMaster>
+    <copyright>&amp;copy; 2025 Sébastien Villers. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/game-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alazia</title>
+      <link>http://localhost:1313/projects/alazia/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/projects/alazia/</guid>
+      <description>Alazia is a light-hearted adventure game inspired by cosy games, but with a twist: the dissonance between comfort and uneasiness.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/alazia/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elf&#39;Intration</title>
+      <link>http://localhost:1313/projects/elfintration/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/projects/elfintration/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

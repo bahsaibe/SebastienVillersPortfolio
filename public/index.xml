@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
       <guid>http://localhost:1313/projects/masterthesis/</guid>
-      <description></description>
+      <description>My master degree thesis about the videogame camera.</description>
       
     </item>
     
@@ -34,9 +34,49 @@
     <item>
       <title>Elf&#39;Intration</title>
       <link>http://localhost:1313/projects/elfintration/</link>
-      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
       <guid>http://localhost:1313/projects/elfintration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Insomaniac</title>
+      <link>http://localhost:1313/projects/insomaniac/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/projects/insomaniac/</guid>
+      <description>Play as a vampire who&amp;rsquo;s been disturbed by lousy kids. Kill them all and go back to sleep !</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/insomaniac/featured.png" />
+    </item>
+    
+    <item>
+      <title>Candle Ring</title>
+      <link>http://localhost:1313/projects/candlering/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/projects/candlering/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/candlering/featured.png" />
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/resume/</guid>
       <description></description>
       
     </item>

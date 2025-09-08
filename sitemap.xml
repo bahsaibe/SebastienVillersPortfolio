@@ -28,7 +28,29 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/elfintration/</loc>
-    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/insomaniac/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/candlering/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/aboutme/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resume/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

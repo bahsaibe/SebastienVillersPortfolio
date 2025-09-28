@@ -5,9 +5,21 @@ date : 2025-09-01
 showHero : true
 draft : false
 showTableOfContents : true
+HeroStyle : "background"
 summary : "My master degree thesis about the videogame camera."
 categories: ["Game Studies"]
 ---
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:10px; max-width:500px;">
+  <h3>My Master’s Thesis [French]</h3>
+  <p>
+    <em>La "caméra" vidéoludique et son importance dans les attitudes interactionnelles chez le joueur.</em>
+  </p>
+  <a href="https://www.academia.edu/144136917/La_cam%C3%A9ra_vid%C3%A9oludique_et_son_importance_dans_les_attitudes_interactionnelles_chez_le_joueur" target="_blank" 
+     style="color:#1a73e8; text-decoration:none; font-weight:bold;">
+     → Read it on Academia.edu
+  </a>
+</div>
 
 ## Abstract
 Ce mémoire étudie l’impact de la caméra vidéoludique sur les attitudes interactionnelles du joueur grâce aux notions telles que l’ocularisation, la focalis’action, les modes de visualisation et les modalités du faire. 

@@ -9,7 +9,17 @@
     <managingEditor>sebastienvillerspro@gmail.com (Sébastien Villers)</managingEditor>
     <webMaster>sebastienvillerspro@gmail.com (Sébastien Villers)</webMaster>
     <copyright>&amp;copy; 2025 Sébastien Villers. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Soko-Garden</title>
+      <link>http://localhost:1313/projects/soko-garden-name-pending/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/projects/soko-garden-name-pending/</guid>
+      <description>Make your flowers grow and create a beautiful garden in this Sokoban-inspired game.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/soko-garden-name-pending/featured.png" />
+    </item>
     
     <item>
       <title>Master Thesis</title>
@@ -18,7 +28,7 @@
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
       <guid>http://localhost:1313/projects/masterthesis/</guid>
       <description>My master degree thesis about the videogame camera.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/masterthesis/featured.png" />
     </item>
     
     <item>
@@ -37,8 +47,8 @@
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
       <guid>http://localhost:1313/projects/elfintration/</guid>
-      <description></description>
-      
+      <description>Play as one of Santa’s mischievous elves, seeking revenge by ruining the holiday for the children. Sneak into the house, steal the presents, avoid waking the parents, and don’t get caught by the dog guarding the home.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/elfintration/featured.png" />
     </item>
     
     <item>
@@ -47,7 +57,7 @@
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
       <guid>http://localhost:1313/projects/insomaniac/</guid>
-      <description>Play as a vampire who&amp;rsquo;s been disturbed by lousy kids. Kill them all and go back to sleep !</description>
+      <description>You’re a vampire, just trying to get some sleep but pesky kids won’t leave you alone! Hunt them down, kill them and go back to your coffin.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/insomaniac/featured.png" />
     </item>
     
@@ -57,7 +67,7 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
       <guid>http://localhost:1313/projects/candlering/</guid>
-      <description></description>
+      <description>Play as a tiny candle on a mission: light the fire! Switch between different candle bodies — light or strong — each offering unique abilities to reach your goal.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/candlering/featured.png" />
     </item>
     

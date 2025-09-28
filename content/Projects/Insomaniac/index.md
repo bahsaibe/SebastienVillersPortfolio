@@ -5,6 +5,7 @@ showHero : true
 draft : false
 heroStyle : "background"
 showTableOfContents : true
-summary : "Play as a vampire who's been disturbed by lousy kids. Kill them all and go back to sleep !"
-categories: ["Sound Design", "Game Design", "3D Animation"]
+summary : "You’re a vampire, just trying to get some sleep but pesky kids won’t leave you alone! Hunt them down, kill them and go back to your coffin."
+categories: ["Sound Design", "Game Design", "3D Animation", "Game Jam"]
 ---
+

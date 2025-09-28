@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Jam on Sébastien Villers</title>
+    <link>http://localhost:1313/categories/game-jam/</link>
+    <description>Recent content in Game Jam on Sébastien Villers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sebastienvillerspro@gmail.com (Sébastien Villers)</managingEditor>
+    <webMaster>sebastienvillerspro@gmail.com (Sébastien Villers)</webMaster>
+    <copyright>&amp;copy; 2025 Sébastien Villers. All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/game-jam/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Candle Ring</title>
+      <link>http://localhost:1313/projects/candlering/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/projects/candlering/</guid>
+      <description>Play as a tiny candle on a mission: light the fire! Switch between different candle bodies — light or strong — each offering unique abilities to reach your goal.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/candlering/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

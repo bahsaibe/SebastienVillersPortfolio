@@ -9,7 +9,17 @@
     <managingEditor>sebastienvillerspro@gmail.com (Sébastien Villers)</managingEditor>
     <webMaster>sebastienvillerspro@gmail.com (Sébastien Villers)</webMaster>
     <copyright>&amp;copy; 2025 Sébastien Villers. All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/sound-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/sound-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Soko-Garden (Name Pending)</title>
+      <link>http://localhost:1313/projects/soko-garden-name-pending/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
+      <guid>http://localhost:1313/projects/soko-garden-name-pending/</guid>
+      <description>Game Jam Project made on Godot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/soko-garden-name-pending/featured.png" />
+    </item>
     
     <item>
       <title>Alazia</title>
@@ -48,7 +58,7 @@
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
       <guid>http://localhost:1313/projects/candlering/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/candlering/featured.png" />
     </item>
     
   </channel>

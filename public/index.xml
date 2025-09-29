@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sébastien Villers</title>
-    <link>https://example.org/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Sébastien Villers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sebastienvillerspro@gmail.com (Sébastien Villers)</managingEditor>
     <webMaster>sebastienvillerspro@gmail.com (Sébastien Villers)</webMaster>
     <copyright>&amp;copy; 2025 Sébastien Villers. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Soko-Garden</title>
-      <link>https://example.org/projects/soko-garden-name-pending/</link>
+      <link>//localhost:1313/projects/soko-garden-name-pending/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/projects/soko-garden-name-pending/</guid>
+      <guid>//localhost:1313/projects/soko-garden-name-pending/</guid>
       <description>Make your flowers grow and create a beautiful garden in this Sokoban-inspired game.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/soko-garden-name-pending/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/soko-garden-name-pending/featured.png" />
     </item>
     
     <item>
       <title>Master Thesis</title>
-      <link>https://example.org/projects/masterthesis/</link>
+      <link>//localhost:1313/projects/masterthesis/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/projects/masterthesis/</guid>
+      <guid>//localhost:1313/projects/masterthesis/</guid>
       <description>My master degree thesis about the videogame camera.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/masterthesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/masterthesis/featured.png" />
     </item>
     
     <item>
       <title>Alazia</title>
-      <link>https://example.org/projects/alazia/</link>
+      <link>//localhost:1313/projects/alazia/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/projects/alazia/</guid>
+      <guid>//localhost:1313/projects/alazia/</guid>
       <description>Alazia is a light-hearted adventure game inspired by cosy games, but with a twist: the dissonance between comfort and uneasiness.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/alazia/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/alazia/featured.png" />
     </item>
     
     <item>
       <title>Elf&#39;Intration</title>
-      <link>https://example.org/projects/elfintration/</link>
+      <link>//localhost:1313/projects/elfintration/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/projects/elfintration/</guid>
+      <guid>//localhost:1313/projects/elfintration/</guid>
       <description>Play as one of Santa’s mischievous elves, seeking revenge by ruining the holiday for the children. Sneak into the house, steal the presents, avoid waking the parents, and don’t get caught by the dog guarding the home.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/elfintration/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/elfintration/featured.png" />
     </item>
     
     <item>
       <title>Insomaniac</title>
-      <link>https://example.org/projects/insomaniac/</link>
+      <link>//localhost:1313/projects/insomaniac/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/projects/insomaniac/</guid>
+      <guid>//localhost:1313/projects/insomaniac/</guid>
       <description>You’re a vampire, just trying to get some sleep but pesky kids won’t leave you alone! Hunt them down, kill them and go back to your coffin.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/insomaniac/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/insomaniac/featured.png" />
     </item>
     
     <item>
       <title>Candle Ring</title>
-      <link>https://example.org/projects/candlering/</link>
+      <link>//localhost:1313/projects/candlering/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/projects/candlering/</guid>
+      <guid>//localhost:1313/projects/candlering/</guid>
       <description>Play as a tiny candle on a mission: light the fire! Switch between different candle bodies — light or strong — each offering unique abilities to reach your goal.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/candlering/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/candlering/featured.png" />
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://example.org/aboutme/</link>
+      <link>//localhost:1313/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/aboutme/</guid>
+      <guid>//localhost:1313/aboutme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://example.org/resume/</link>
+      <link>//localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/resume/</guid>
+      <guid>//localhost:1313/resume/</guid>
       <description></description>
       
     </item>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Studies on Sébastien Villers</title>
-    <link>https://example.org/categories/game-studies/</link>
+    <link>//localhost:1313/categories/game-studies/</link>
     <description>Recent content in Game Studies on Sébastien Villers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sebastienvillerspro@gmail.com (Sébastien Villers)</managingEditor>
     <webMaster>sebastienvillerspro@gmail.com (Sébastien Villers)</webMaster>
     <copyright>&amp;copy; 2025 Sébastien Villers. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/game-studies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/game-studies/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Master Thesis</title>
-      <link>https://example.org/projects/masterthesis/</link>
+      <link>//localhost:1313/projects/masterthesis/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/projects/masterthesis/</guid>
+      <guid>//localhost:1313/projects/masterthesis/</guid>
       <description>My master degree thesis about the videogame camera.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/masterthesis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/masterthesis/featured.png" />
     </item>
     
   </channel>

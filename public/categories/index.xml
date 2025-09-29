@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sébastien Villers</title>
-    <link>https://example.org/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Sébastien Villers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sebastienvillerspro@gmail.com (Sébastien Villers)</managingEditor>
     <webMaster>sebastienvillerspro@gmail.com (Sébastien Villers)</webMaster>
     <copyright>&amp;copy; 2025 Sébastien Villers. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Game Design</title>
-      <link>https://example.org/categories/game-design/</link>
+      <link>//localhost:1313/categories/game-design/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/categories/game-design/</guid>
+      <guid>//localhost:1313/categories/game-design/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Game Jam</title>
-      <link>https://example.org/categories/game-jam/</link>
+      <link>//localhost:1313/categories/game-jam/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/categories/game-jam/</guid>
+      <guid>//localhost:1313/categories/game-jam/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sound Design</title>
-      <link>https://example.org/categories/sound-design/</link>
+      <link>//localhost:1313/categories/sound-design/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/categories/sound-design/</guid>
+      <guid>//localhost:1313/categories/sound-design/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Game Studies</title>
-      <link>https://example.org/categories/game-studies/</link>
+      <link>//localhost:1313/categories/game-studies/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/categories/game-studies/</guid>
+      <guid>//localhost:1313/categories/game-studies/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>3D Animation</title>
-      <link>https://example.org/categories/3d-animation/</link>
+      <link>//localhost:1313/categories/3d-animation/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
       <author>sebastienvillerspro@gmail.com (Sébastien Villers)</author>
-      <guid>https://example.org/categories/3d-animation/</guid>
+      <guid>//localhost:1313/categories/3d-animation/</guid>
       <description></description>
       
     </item>

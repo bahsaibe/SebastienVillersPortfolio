@@ -3,7 +3,7 @@ title: "About Me"
 showdate : false
 showwordcount : false
 showHero : false
-draft : false
+draft : true
 heroStyle : "background"
 showTableOfContents : false
 showReadingTime : false

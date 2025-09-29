@@ -13,9 +13,9 @@ ShowAuthorBottom : true
 ## My Resume
 You can download my CV right here : 
 <p>
-  <a href="/cv/cvfr.pdf" style="padding:8px 14px; background:#0077cc; color:white; border-radius:6px; text-decoration:none;">🇫🇷 CV en français</a>
+  <a href="/public/cv/cvfr.pdf" style="padding:8px 14px; background:#0077cc; color:white; border-radius:6px; text-decoration:none;">🇫🇷 CV en français</a>
   &nbsp;
-  <a href="/cv/cven.pdf" style="padding:8px 14px; background:#444; color:white; border-radius:6px; text-decoration:none;">🇬🇧 CV in English</a>
+  <a href="/public/cv/cven.pdf" style="padding:8px 14px; background:#444; color:white; border-radius:6px; text-decoration:none;">🇬🇧 CV in English</a>
 </p>
 
 

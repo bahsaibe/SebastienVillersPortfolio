@@ -18,40 +18,7 @@ You can download my CV right here :
   <a href="/cv/cven.pdf" style="padding:8px 14px; background:#444; color:white; border-radius:6px; text-decoration:none;">🇬🇧 CV in English</a>
 </p>
 
-## My Skills
 
-<table>
-  <tr>
-    <td>
-      <b>🎮 Game Design</b><br/>
-      Level design, gameplay systems, player experience
-    </td>
-    <td>
-      <b>🖌️ Animation 3D</b><br/>
-      Blender, rigging, skinning, cinematic sequences
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🎧 Sound Design</b><br/>
-      Sound effects, ambient design, Reaper
-    </td>
-    <td>
-      <b>🎬 Montage Vidéo</b><br/>
-      Premiere Pro, After Effects, storytelling visuel
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🛠️ Outils</b><br/>
-      Unreal Engine 5, Git, Trello
-    </td>
-    <td>
-      <b>🌍 Langues</b><br/>
-      Français (natif), Anglais (avancé)
-    </td>
-  </tr>
-</table>
 
 
 ## Expérience professionnelle

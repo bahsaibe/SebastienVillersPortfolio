@@ -15,7 +15,7 @@
   pageRef = "/"
   weight = 1
 
-[[main]]
+#[[main]]
   name = "About Me"
   pageRef = "AboutMe"
   weight = 2
